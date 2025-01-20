@@ -2,6 +2,7 @@
 TO LIST ADDRESS
 
 # SCREENSHOT
+![photo_2025-01-20_23-04-38](https://github.com/user-attachments/assets/a9fdfdd8-cafc-46fe-a54c-0f3fab832ce4)
 
 
 
@@ -21,12 +22,11 @@ pip install requests
 pip install web3
 ```
 ```
-git clone 
+git clone https://github.com/AirdropFamilyIDN-V2-0/Tea-Assam.git
 ```
 ```
 cd Tea-Assam
 ```
-# Edit File listaddress Masukin Address Kalian
 ```
 python Tea.py
 ```
@@ -57,7 +57,7 @@ pip install requests
 pip install web3==5.28.0
 ```
 ```
-git clone 
+git clone https://github.com/AirdropFamilyIDN-V2-0/Tea-Assam.git
 ```
 ```
 cd Tea-Assam
